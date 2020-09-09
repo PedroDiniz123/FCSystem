@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FallCraftSystem:jar">
+    <output-path>$PROJECT_DIR$/../Mine-1.8/plugins</output-path>
+    <root id="archive" name="FallCraftSystem.jar">
+      <element id="module-output" name="FallCraftSystem" />
+    </root>
+  </artifact>
+</component>

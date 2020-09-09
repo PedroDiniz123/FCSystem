@@ -1,0 +1,12 @@
+config:
+  #Permissão para uso (necessário junto com os de cada vip): fallcraft.chest.open
+
+  tamanhos:
+    #Permissão: fallcraft.modules.chest.ouro
+    ouro: 3
+    #Permissão: fallcraft.modules.chest.dima
+    dima: 5
+    #Permissão: fallcraft.modules.chest.safira
+    safira: 6
+
+  players:

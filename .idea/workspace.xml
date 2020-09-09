@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FallCraftSystem:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c811c06-88ae-4391-aae1-b69ffd2ec5dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/chest/events/InventoryClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/chest/events/InventoryClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/chest/utils/ChestCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/chest/utils/ChestsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/craftingtable/command/CraftingTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/craftingtable/core/LoadCraftingTableModules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/ok/item/commands/ItemAjuda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/ok/item/commands/ItemDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/ok/item/commands/ItemEnchant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/ok/item/commands/ItemName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/ok/item/commands/SetDurability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/ok/item/core/LoadItemModules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/ok/item/utils/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/ok/item/utils/Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/signs/commands/SignEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/signs/core/LoadSignModules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/signs/events/SignClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/signs/events/SignCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/signs/utils/RepairSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/pedro/signs/utils/Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chestlist.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chests-config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FallCraftSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FallCraftSystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fallcraftsystem/core/FallCraftSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fallcraftsystem/core/FallCraftSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/ajudastaff/commands/AjudaStaff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fallcraftsystem/modules/ajudastaff/core/LoadAjudaStaffModules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fallcraftsystem/core/FallCraftSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fallcraftsystem/core/FallCraftSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fallcraftsystem/modules/ajudastaff/commands/AjudaStaff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fallcraftsystem/modules/ajudastaff/core/LoadAjudaStaffModules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="P:\Java\IntelliJ\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aH5cZHaslarAQoweR0Qru6ZZ8l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41264367" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\IdeaProjects\FallCraftSystem\src\main\java\fallcraftsystem\modules\home\commands" />
+      <recent name="C:\Users\gabri\IdeaProjects\FallCraftSystem\src\main\resources" />
+      <recent name="C:\Users\gabri\IdeaProjects\FallCraftSystem\src\main\java\fallcraftsystem\modules\essentials\commands" />
+      <recent name="C:\Users\gabri\IdeaProjects\FallCraftSystem\src\main\resources\warps" />
+      <recent name="C:\Users\gabri\IdeaProjects\FallCraftSystem\src\main\java\fallcraftsystem\modules\essentials\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\GitHub\FallCraftSystem\src\main\java\fallcraftsystem\modules\essentials\commands\admin" />
+      <recent name="P:\GitHub\FallCraftSystemPedro\src\main\java\fallcraftsystem\modules" />
+      <recent name="P:\GitHub\FallCraftSystemPedro\src\main\java\fallcraftsystem\utils" />
+      <recent name="P:\GitHub\FallCraftSystemPedro\src\main\java\fallcraftsystem\entities" />
+      <recent name="P:\GitHub\FallCraftSystemPedro\src\main\java\fallcraftsystem" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fallcraftsystem.modules.pedro.signsplus.utils" />
+      <recent name="fallcraftsystem.modules.pedro.chest.utils" />
+      <recent name="fallcraftsystem.modules.chest.utils" />
+      <recent name="fallcraftsystem.modules.pedro.merdas.detonator.utils" />
+      <recent name="fallcraftsystem.modules.home.commands" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fallcraftsystem.pedro.ok.repair.core" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FallCraftSystem build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c811c06-88ae-4391-aae1-b69ffd2ec5dc" name="Default Changelist" comment="" />
+      <created>1586379759091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586379759091</updated>
+      <workItem from="1586379764220" duration="6619000" />
+      <workItem from="1586386895235" duration="869000" />
+      <workItem from="1586399176414" duration="7887000" />
+      <workItem from="1586408100584" duration="888000" />
+      <workItem from="1586409023673" duration="551000" />
+      <workItem from="1586409602614" duration="353000" />
+      <workItem from="1586409969550" duration="3031000" />
+      <workItem from="1586436113593" duration="4976000" />
+      <workItem from="1586460968495" duration="11878000" />
+      <workItem from="1586473125905" duration="347000" />
+      <workItem from="1586483309569" duration="5678000" />
+      <workItem from="1586493710518" duration="2556000" />
+      <workItem from="1586525664375" duration="8198000" />
+      <workItem from="1586535831410" duration="2666000" />
+      <workItem from="1586547065126" duration="5606000" />
+      <workItem from="1586553113592" duration="684000" />
+      <workItem from="1586561974897" duration="27000" />
+      <workItem from="1586562186091" duration="846000" />
+      <workItem from="1586571418249" duration="1160000" />
+      <workItem from="1586577732945" duration="5085000" />
+      <workItem from="1586629934935" duration="9997000" />
+      <workItem from="1586815033789" duration="2539000" />
+      <workItem from="1586833550084" duration="2241000" />
+      <workItem from="1586890437518" duration="697000" />
+      <workItem from="1586892700670" duration="143000" />
+      <workItem from="1586901992844" duration="14000" />
+      <workItem from="1586902016581" duration="1264000" />
+      <workItem from="1586929014052" duration="1583000" />
+      <workItem from="1586987262275" duration="1655000" />
+      <workItem from="1586988936375" duration="5388000" />
+      <workItem from="1587002315569" duration="7206000" />
+      <workItem from="1587046207987" duration="549000" />
+      <workItem from="1587075093492" duration="3374000" />
+      <workItem from="1587096737937" duration="4174000" />
+      <workItem from="1587156289354" duration="1011000" />
+      <workItem from="1587272285867" duration="2655000" />
+      <workItem from="1587296559641" duration="2477000" />
+      <workItem from="1587325087108" duration="610000" />
+      <workItem from="1587333877930" duration="616000" />
+      <workItem from="1587411664608" duration="11509000" />
+      <workItem from="1587497815027" duration="3259000" />
+      <workItem from="1587503634842" duration="27000" />
+      <workItem from="1587512210156" duration="4560000" />
+      <workItem from="1587517420281" duration="1121000" />
+      <workItem from="1587523380930" duration="11866000" />
+      <workItem from="1587535379147" duration="188000" />
+      <workItem from="1587561168929" duration="1905000" />
+      <workItem from="1587564442627" duration="3016000" />
+      <workItem from="1587567581545" duration="865000" />
+      <workItem from="1587591580637" duration="3366000" />
+      <workItem from="1587594971277" duration="190000" />
+      <workItem from="1587674760979" duration="12386000" />
+      <workItem from="1587695946100" duration="3081000" />
+      <workItem from="1587789844490" duration="84000" />
+      <workItem from="1587790723938" duration="1225000" />
+      <workItem from="1587792886627" duration="116000" />
+      <workItem from="1587795051356" duration="772000" />
+      <workItem from="1587815104924" duration="1419000" />
+      <workItem from="1587847890242" duration="618000" />
+      <workItem from="1587895705911" duration="2633000" />
+      <workItem from="1587992536096" duration="680000" />
+      <workItem from="1587993268129" duration="25000" />
+      <workItem from="1587994580275" duration="730000" />
+      <workItem from="1588041757354" duration="157000" />
+      <workItem from="1588294245563" duration="195000" />
+      <workItem from="1588302249891" duration="167000" />
+      <workItem from="1588374906981" duration="1869000" />
+      <workItem from="1588376835770" duration="1524000" />
+      <workItem from="1588387594555" duration="1174000" />
+      <workItem from="1588388850799" duration="700000" />
+      <workItem from="1588389592059" duration="38000" />
+      <workItem from="1588413531164" duration="83000" />
+      <workItem from="1588415449702" duration="2502000" />
+      <workItem from="1588463473481" duration="1063000" />
+      <workItem from="1588627249646" duration="3615000" />
+      <workItem from="1588724775660" duration="1441000" />
+      <workItem from="1588752043135" duration="13561000" />
+      <workItem from="1588794745586" duration="1052000" />
+      <workItem from="1588863080226" duration="125000" />
+      <workItem from="1589085993647" duration="108000" />
+      <workItem from="1589116210720" duration="879000" />
+      <workItem from="1589227043771" duration="489000" />
+      <workItem from="1589237742946" duration="790000" />
+      <workItem from="1589249911956" duration="38000" />
+      <workItem from="1589251196114" duration="422000" />
+      <workItem from="1589289590803" duration="1414000" />
+      <workItem from="1589292538296" duration="1656000" />
+      <workItem from="1589314383798" duration="25000" />
+      <workItem from="1589380846268" duration="616000" />
+      <workItem from="1589407736647" duration="3000" />
+      <workItem from="1589428664600" duration="1872000" />
+      <workItem from="1589431860867" duration="241000" />
+      <workItem from="1589463921595" duration="41000" />
+      <workItem from="1589483288771" duration="8444000" />
+      <workItem from="1589493280700" duration="3052000" />
+      <workItem from="1589496629636" duration="6000" />
+      <workItem from="1589502808845" duration="1425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="958" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1599092294821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1599092294821" />
+    <state x="787" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599013016498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="787" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599013016498" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599077181957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598915075742" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599077181957" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1599077267162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598915079845" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599077267162" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1599419841973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599419841973" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599421308295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599421308295" />
+  </component>
+</project>

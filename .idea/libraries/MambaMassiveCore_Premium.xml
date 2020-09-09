@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MambaMassiveCore_Premium">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Mine-1.8/plugins/MambaMassiveCore_Premium.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Mine-1.8/plugins/MambaFactions_Premium.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

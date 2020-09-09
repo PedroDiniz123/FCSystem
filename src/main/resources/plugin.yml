@@ -1,0 +1,108 @@
+name: FallCraftSystem
+authors:
+  - 1Ursoo
+  - PedroDiniz
+version: ${project.version}
+main: fallcraftsystem.core.FallCraftSystem
+api-version: 1.8.8
+depend: [WorldGuard]
+commands:
+
+  setwarp:
+    description: Defino um novo warp.
+    permission: fc.warp_admin
+    usage: Use /setwarp <Name> <Position> [Permission] para definir um warp.
+  delwarp:
+    description: Deleta um warp.
+    permission: fc.warp_admin
+    usage: Use /delwarp <Name> tpara deletar um warp.
+  warp:
+    description: Abre o menu de warps.
+    permission: fc.warp
+    usage: Use /warp <warp name> to teleport.
+  warplist:
+    description: See the all warps.
+    permission: fc.warplist
+    usage: Use /warplist to see all warps.
+
+  kit:
+    description: Abre o menu para ver todos os kits disponiveis.
+    usage: Use /kit.
+  createkit:
+    description: Cria um novo kit.
+    permission: fc.createkit
+    usage: Use /createkit <nome> <posicao> <horas> [permissao].
+  delkit:
+    description: Deleta um kit.
+    permission: fc.delkit
+    usage: Use /delkit <nome>.
+
+  invsee:
+    description: Mostra o inventario do jogador
+    usage: use /invsee <jogador>
+    permission: fc.invsee
+
+  fcscoreboard:
+    description: Liga e desliga a fcscoreboard
+    permission: fc.scoreboard
+    aliases:
+      - fcscore
+      - fcs
+
+  chest:
+    description: Abre um baú virtual
+    permission: fc.chest_open
+    usage: §cUse /chest
+  echest:
+    description: Abre o enderchest
+    permission: fc.echest_use
+    usage: §cUse /echest
+    aliases:
+      - ec
+      - enderchest
+
+  coin:
+    description: Use Coin System
+    usage: Use /coin
+  coinshop:
+    description: Abre a loja de coins
+    usage: Use /coinshop ajuda para ver mais.
+    aliases:
+      - cshop
+
+  lobby:
+    description: Vai ate o spawn.
+    aliases: [ spawn , hub ]
+    permission: fc.spawn
+    usage: Use /lobby para ir ate o spawn.
+  setlobby:
+    description: Define o ponto do lobby.
+    permission: fc.setspawn
+    usage: Use /setlobby para definir o ponto do spawn.
+
+  reloadall:
+    description: Kicka todos do servidor e o reinicia.
+    permission: fc.reloadall
+    usage: Use /reloadall.
+
+  discord:
+    description: Get discord.
+    usage: Use /discord
+
+  reparo:
+    description: Repara os itens da mão ou todos os itens.
+    usage: Use /reparo <mão/tudo>
+    aliases:
+      - fix
+
+  fly:
+    description: Liga e desliga o fly
+    usage: Use /fly ou /fly <jogador>
+    permission: fc.fly
+
+  vanish:
+    description: Liga e delisga o vanish
+    usage: Use /vanish
+    permission: fc.vanish
+    aliases:
+      - v
